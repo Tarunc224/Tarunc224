@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Tarunc224
-- 👀 I’m interested in Machine Learning
-- 🌱 I’m currently learning Deep Learning
+- 👀 I’m interested in AI/ML
 - 📫 How to reach me tarunchintada2004@gmail.com
 
 
